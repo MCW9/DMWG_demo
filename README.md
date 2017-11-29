@@ -1,6 +1,13 @@
 # Git/Github demo for DMWG
 
-This repo contains a short lesson on Git/Github basics and is meant to demonstrate its use for teaching materials.
+This repo contains a short lesson on Git/Github basics and is meant to demonstrate its use for generating materials for training.
+
+## Overview
+
+** What is Git/Github?
+** What is "markdown" format?
+** How does one collaborate using a version control system like Git?
+** What does it mean to "render" a markdown into html?
 
 ### Glossary of terms
 
@@ -10,6 +17,8 @@ This repo contains a short lesson on Git/Github basics and is meant to demonstra
 * add
 * commit
 * push
+* fork
 * markdown
 * conflict
 * branch
+* pull request
