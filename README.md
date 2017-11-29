@@ -9,6 +9,8 @@ This repo contains a short lesson on Git/Github basics and is meant to demonstra
 * How does one collaborate using a version control system like Git?
 * What does it mean to "render" a markdown into html?
 
+[Click here for the example lesson!](test_lesson.md)
+
 ### Glossary of terms
 
 * repository (repo)
