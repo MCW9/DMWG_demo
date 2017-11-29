@@ -76,17 +76,14 @@ Here, you can use the parents flag (`-p` or `--parents`) with `mkdir` to complet
 
 
 ```bash
-
 $ mkdir -p rnaseq/logs rnaseq/meta rnaseq/raw_data rnaseq/results rnaseq/scripts
 ``` 
 
 Verify that the project directory and subdirectories now exist.
 
 ```bash
-
 $ cd rnaseq
 $ ls -l
-
 ```
 
 Let's populate the `rnaseq/` project with our example RNA-seq FASTQ data.
