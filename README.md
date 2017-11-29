@@ -5,8 +5,10 @@ This repo contains a short lesson on Git/Github basics and is meant to demonstra
 ### Glossary of terms
 
 * repository (repo)
+* clone
+* pull
+* add
 * commit
 * push
-* pull
 * markdown
 * conflict
