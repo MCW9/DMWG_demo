@@ -4,7 +4,7 @@ This repo contains a short lesson on Git/Github basics and is meant to demonstra
 
 ### Glossary of terms
 
-* repo
+* repository (repo)
 * commit
 * push
 * pull
