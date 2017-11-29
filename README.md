@@ -1,2 +1,12 @@
-# DMWGdemo
-Demo for DMWG Nov 2017
+# Git/Github demo for DMWG
+
+This repo contains a short lesson on Git/Github basics and is meant to demonstrate its use for teaching materials.
+
+### Glossary of terms
+
+* repo
+* commit
+* push
+* pull
+* markdown
+* conflict
