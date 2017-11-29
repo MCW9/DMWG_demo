@@ -12,7 +12,7 @@
 > 
 > *[- HMS Data Management Working Group](https://datamanagement.hms.harvard.edu/hms-data-management-working-group)*
 
-<img src="../img/data_life_cycle_gouldv2.png" width="350">
+<img src="img/data_life_cycle_gouldv2.png" width="350">
 
 The data lifecycle is not linear and you may find yourself jumping around this lifecycle throughout the course of your
 project. Today we will cover some parts of this lifecycle by talking about **best practices for  the Research half** of the above lifecycle. Later in this workshop we will talk a little more about the data storage. For more information about the full lifecycle and more guidelines, please look at the resources linked below.
@@ -184,7 +184,7 @@ In addition to the raw sequence data we also need to collect **information about
 * The full dataset was sequenced to **~40 million reads** per sample, but for this workshop we will be looking at a small subset on chr1 (~300,000 reads/sample).
 * For each group we have three replicates as described in the figure below.
 
-![Automation](../img/exp_design.png)
+![design](img/exp_design.png)
 
 
 ## Best practices for NGS Analysis 
