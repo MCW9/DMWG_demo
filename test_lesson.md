@@ -3,7 +3,6 @@
 
 - Recognize the need for data management.
 - Plan a good genomics experiment and getting started with project organization.
-- Explain the RNA-seq experiment and its objectives.
 - Define "metadata" and describe it for the example experiment.
 
 ## Data Management
